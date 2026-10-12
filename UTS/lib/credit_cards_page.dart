@@ -140,7 +140,7 @@ Widget build(BuildContext context) {
 
   // buat top row containing logo
   Row _buildLogosBlock() {
-    // TODO 5: Panggil asset gambar lokal "contact_less.png" dan "mastercard.png".
+    // TODO 5: Panggil asset gambar lokal "contact_less.png" dan "mastercard.png" di sini.
     return Row(
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: <Widget>[
